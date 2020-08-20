@@ -1,4 +1,4 @@
-# You can see what this site looks like by following this [link] (https://kennywf.github.io/javascript-challenge/).
+# You can see what this site looks like by following this [link](https://kennywf.github.io/javascript-challenge/).
 
 # Background
 
